@@ -1,0 +1,414 @@
+[19:18:45] [Server thread/INFO]: Loading properties
+[19:18:45] [Server thread/INFO]: This server is running Paper version git-Paper-146 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[19:18:45] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:18:45] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:18:45] [Server thread/INFO]: Debug logging is disabled
+[19:18:45] [Server thread/INFO]: Default game type: SURVIVAL
+[19:18:45] [Server thread/INFO]: Generating keypair
+[19:18:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:18:46] [Server thread/INFO]: Using epoll channel type
+[19:18:47] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.1.0;8e55131
+[19:18:48] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@4c978def]
+[19:18:48] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:18:48] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.1.0;8e55131
+[19:18:48] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[19:18:49] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_15_R2 as the Bukkit adapter
+[19:18:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:18:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:18:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:18:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:18:51] [Server thread/INFO]: Preparing level "world"
+[19:18:52] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[19:19:12] [Server thread/INFO]: Loaded 6 recipes
+[19:19:13] [Server thread/INFO]: -------- World Settings For [world] --------
+[19:19:13] [Server thread/INFO]: Mob Spawn Range: 8
+[19:19:13] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:19:13] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[19:19:13] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[19:19:13] [Server thread/INFO]: Max TNT Explosions: 100
+[19:19:13] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:19:13] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:19:13] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:19:13] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:19:13] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:19:13] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:19:13] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:19:13] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:19:13] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:19:13] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:19:13] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:19:13] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:19:13] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:19:13] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:19:13] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[19:19:13] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[19:19:13] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[19:19:13] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[19:19:13] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:19:13] [Server thread/INFO]: View Distance: 10
+[19:19:13] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:19:13] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:19:13] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:19:13] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[19:19:13] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:19:13] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:19:13] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[19:19:13] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[19:19:13] [Server thread/INFO]: Mob Spawn Range: 8
+[19:19:13] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:19:13] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[19:19:13] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[19:19:13] [Server thread/INFO]: Max TNT Explosions: 100
+[19:19:13] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:19:13] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:19:13] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:19:13] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:19:13] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:19:13] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:19:13] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:19:13] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:19:13] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:19:13] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:19:13] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:19:13] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:19:13] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:19:13] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:19:13] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[19:19:13] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[19:19:13] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[19:19:13] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[19:19:13] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:19:13] [Server thread/INFO]: View Distance: 10
+[19:19:13] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:19:13] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:19:13] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:19:13] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[19:19:13] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:19:13] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:19:13] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[19:19:13] [Server thread/INFO]: Mob Spawn Range: 8
+[19:19:13] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:19:14] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[19:19:14] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[19:19:14] [Server thread/INFO]: Max TNT Explosions: 100
+[19:19:14] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:19:14] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:19:14] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:19:14] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:19:14] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:19:14] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:19:14] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:19:14] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:19:14] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:19:14] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:19:14] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:19:14] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:19:14] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:19:14] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:19:14] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[19:19:14] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[19:19:14] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[19:19:14] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[19:19:14] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:19:14] [Server thread/INFO]: View Distance: 10
+[19:19:14] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:19:14] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:19:14] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:19:14] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[19:19:14] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:19:14] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:19:14] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[19:19:14] [Server thread/INFO]: Preparing spawn area: 0%
+[19:19:14] [Server thread/INFO]: Preparing spawn area: 0%
+[19:19:15] [Server thread/INFO]: Preparing spawn area: 3%
+[19:19:15] [Server thread/INFO]: Preparing spawn area: 12%
+[19:19:16] [Server thread/INFO]: Preparing spawn area: 100%
+[19:19:16] [Server thread/INFO]: Loaded 441 spawn chunks for world world
+[19:19:16] [Server thread/INFO]: Time elapsed: 2218 ms
+[19:19:16] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[19:19:16] [Server thread/INFO]: Preparing spawn area: 0%
+[19:19:16] [Server thread/INFO]: Preparing spawn area: 46%
+[19:19:17] [Server thread/INFO]: Preparing spawn area: 100%
+[19:19:17] [Server thread/INFO]: Loaded 441 spawn chunks for world world_nether
+[19:19:17] [Server thread/INFO]: Time elapsed: 1165 ms
+[19:19:17] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[19:19:17] [Server thread/INFO]: Preparing spawn area: 0%
+[19:19:17] [Server-Worker-2/INFO]: Preparing spawn area: 100%
+[19:19:18] [Server-Worker-1/INFO]: Preparing spawn area: 100%
+[19:19:18] [Server-Worker-2/INFO]: Preparing spawn area: 100%
+[19:19:19] [Server thread/INFO]: Loaded 441 spawn chunks for world world_the_end
+[19:19:19] [Server thread/INFO]: Time elapsed: 1796 ms
+[19:19:19] [Server thread/INFO]: Done (27.500s)! For help, type "help"
+[19:19:19] [Server thread/INFO]: Timings Reset
+[19:19:19] [User Authenticator #1/INFO]: UUID of player zubito is c17ea723-0e8c-3a3e-b365-d29d97fe3fd4
+[19:19:20] [Server thread/INFO]: zubito[/0:0:0:0:0:0:0:1%0:60994] logged in with entity id 279 at ([world]100.5, 32.0000002, -530.5)
+[19:19:25] [User Authenticator #1/INFO]: UUID of player neruy_rodo is 5c936709-d966-38d8-b43e-687d0230eaa4
+[19:19:25] [Server thread/INFO]: neruy_rodo[/0:0:0:0:0:0:0:1%0:33058] logged in with entity id 361 at ([world]-294.50749739042544, 82.42159999847412, -463.2888918223986)
+[19:21:52] [Async Chat Thread - #0/INFO]: <zubito> tem nautilus ai nervy
+[19:26:47] [Server thread/INFO]: zubito issued server command: /tp neruy_rodo
+[19:26:47] [Server thread/INFO]: [zubito: Teleported zubito to neruy_rodo]
+[19:31:43] [User Authenticator #2/INFO]: UUID of player Diego is b6924f51-1f86-392e-8603-14173febdfcb
+[19:31:43] [Server thread/INFO]: Diego[/0:0:0:0:0:0:0:1%0:41604] logged in with entity id 2962 at ([world]-235.97455356849952, 124.0, -494.9121898565842)
+[19:31:53] [Server thread/INFO]: Diego fell from a high place
+[19:32:15] [Server thread/WARN]: zubito moved wrongly!
+[19:36:25] [Server thread/INFO]: There are 3 of a max 20 players online: zubito, neruy_rodo, Diego
+[19:39:11] [Server thread/INFO]: neruy_rodo was blown up by Creeper
+[19:40:34] [Server thread/WARN]: zubito moved wrongly!
+[19:41:27] [Async Chat Thread - #1/INFO]: <zubito> ow
+[19:41:34] [Async Chat Thread - #1/INFO]: <zubito> acei um teplo aquatico
+[19:41:39] [Async Chat Thread - #1/INFO]: <zubito> se quiser da tp
+[19:41:43] [Async Chat Thread - #1/INFO]: <zubito> ta aq na frente
+[19:42:03] [Server thread/WARN]: zubito moved wrongly!
+[19:42:22] [Async Chat Thread - #1/INFO]: <zubito> dieo
+[19:42:25] [Async Chat Thread - #1/INFO]: <zubito> da tp
+[19:42:30] [Async Chat Thread - #1/INFO]: <zubito> to quase morrendo
+[19:42:32] [Async Chat Thread - #1/INFO]: <Diego> to construindo man
+[19:42:36] [Async Chat Thread - #1/INFO]: <zubito> vixi
+[19:42:41] [Async Chat Thread - #1/INFO]: <zubito> vou perder o local
+[19:42:52] [Async Chat Thread - #1/INFO]: <Diego> marca as cords no chat
+[19:42:59] [Async Chat Thread - #1/INFO]: <Diego> e da tp dps
+[19:43:40] [Server thread/INFO]: Diego fell from a high place
+[19:44:13] [Server thread/WARN]: zubito moved wrongly!
+[19:51:54] [Async Chat Thread - #2/INFO]: <zubito> nossa
+[19:52:04] [Async Chat Thread - #2/INFO]: <zubito> se vc bater um afoado na porta ele nao ataca
+[19:53:13] [User Authenticator #3/INFO]: UUID of player nikeito is b024d353-01d2-310c-8334-f1a1400c75b4
+[19:53:13] [Server thread/INFO]: nikeito[/0:0:0:0:0:0:0:1%0:51756] logged in with entity id 8972 at ([world]100.29999997466803, 32.0000002, -530.700000025332)
+[19:53:27] [Server thread/INFO]: nikeito issued server command: /tp Diego nikeito
+[19:53:27] [Server thread/INFO]: [nikeito: Teleported Diego to nikeito]
+[19:53:35] [Server thread/INFO]: Diego issued server command: /kill
+[19:53:35] [Server thread/INFO]: Diego fell out of the world
+[19:53:35] [Server thread/INFO]: [Diego: Killed Diego]
+[19:53:41] [Async Chat Thread - #3/INFO]: <nikeito> ah vey
+[19:55:03] [Server thread/INFO]: nikeito issued server command: /tp nikeito zubito
+[19:55:03] [Server thread/INFO]: [nikeito: Teleported nikeito to zubito]
+[19:55:05] [Server thread/INFO]: nikeito was impaled by Drowned
+[19:55:14] [Server thread/INFO]: nikeito issued server command: /tp nikeito zubito
+[19:55:14] [Server thread/INFO]: [nikeito: Teleported nikeito to zubito]
+[20:00:01] [Async Chat Thread - #4/INFO]: <zubito> me ajuda aq
+[20:00:05] [Async Chat Thread - #4/INFO]: <zubito> to com lentidao
+[20:00:49] [User Authenticator #4/INFO]: UUID of player EIke is 5d52dea8-2fac-3d62-a9ac-fcd1575c3b7e
+[20:00:49] [Server thread/INFO]: EIke[/0:0:0:0:0:0:0:1%0:46900] logged in with entity id 11243 at ([world]-232.5, 80.0, -447.5)
+[20:01:05] [Async Chat Thread - #4/INFO]: <EIke> digitei o nick errado
+[20:01:06] [Async Chat Thread - #4/INFO]: <EIke> n.a.
+[20:01:18] [Server thread/INFO]: EIke lost connection: Disconnected
+[20:01:18] [Server thread/INFO]: EIke left the game
+[20:03:10] [Async Chat Thread - #5/INFO]: <zubito> nice
+[20:04:52] [Server thread/INFO]: zubito issued server command: /kill
+[20:04:52] [Server thread/INFO]: zubito didn't want to live in the same world as Guardian
+[20:04:52] [Server thread/INFO]: [zubito: Killed zubito]
+[20:04:53] [Server thread/INFO]: Diego fell from a high place
+[20:05:01] [Server thread/INFO]: zubito issued server command: /tp Diego
+[20:05:01] [Server thread/INFO]: [zubito: Teleported zubito to Diego]
+[20:05:18] [User Authenticator #5/INFO]: UUID of player Eike is 9251e9e2-88e1-3c18-beb1-52bdef3cb5af
+[20:05:18] [Server thread/INFO]: Eike[/0:0:0:0:0:0:0:1%0:60644] logged in with entity id 12563 at ([world]-914.3650339155902, 72.0, 48.35332858953978)
+[20:05:28] [Async Chat Thread - #6/INFO]: <Eike> ae
+[20:05:55] [Async Chat Thread - #6/INFO]: <Diego> ow eike
+[20:05:58] [Async Chat Thread - #6/INFO]: <Eike> tdiz
+[20:06:04] [Async Chat Thread - #6/INFO]: <Diego> como crafta esse lampião?
+[20:06:12] [Async Chat Thread - #6/INFO]: <Eike> pior q n lembro
+[20:06:18] [Async Chat Thread - #6/INFO]: <Eike> pesquisa na wiki
+[20:06:29] [Server thread/INFO]: Eike issued server command: /tp diego
+[20:06:29] [Server thread/INFO]: [Eike: Teleported Eike to Diego]
+[20:06:33] [Server thread/INFO]: Diego fell from a high place
+[20:06:53] [Async Chat Thread - #6/INFO]: <Eike> bó derrotar o wi
+[20:06:55] [Async Chat Thread - #6/INFO]: <Diego> iai cara, oq acha da minha casa gamer
+[20:06:58] [Async Chat Thread - #6/INFO]: <Eike> wither
+[20:07:18] [Async Chat Thread - #6/INFO]: <Eike> casa de mineman
+[20:07:43] [Async Chat Thread - #6/INFO]: <Diego> onde ta tua mesa de enchant?
+[20:07:49] [Async Chat Thread - #6/INFO]: <Eike> na minha cas
+[20:07:50] [Async Chat Thread - #6/INFO]: <zubito> na casa
+[20:07:54] [Async Chat Thread - #6/INFO]: <Eike> casa
+[20:08:38] [Server thread/INFO]: Diego has made the advancement [Cover Me With Diamonds]
+[20:09:06] [Server thread/INFO]: Diego issued server command: /tp Eike
+[20:09:06] [Server thread/INFO]: [Diego: Teleported Diego to Eike]
+[20:09:07] [Server thread/INFO]: Eike issued server command: /up 15
+[20:09:12] [Server thread/WARN]: zubito moved wrongly!
+[20:09:16] [Server thread/INFO]: Diego issued server command: /tp Eike
+[20:09:16] [Server thread/INFO]: [Diego: Teleported Diego to Eike]
+[20:09:21] [Server thread/INFO]: nikeito issued server command: /tp nikeito zubito
+[20:09:21] [Server thread/INFO]: [nikeito: Teleported nikeito to zubito]
+[20:09:23] [Async Chat Thread - #7/INFO]: <Eike> kkk
+[20:09:26] [Server thread/INFO]: Diego issued server command: /tp Eike
+[20:09:26] [Server thread/INFO]: [Diego: Teleported Diego to Eike]
+[20:09:40] [Async Chat Thread - #7/INFO]: <Diego> me enpresta papis ai men
+[20:10:06] [Server thread/INFO]: Diego has made the advancement [Enchanter]
+[20:10:07] [Server thread/WARN]: zubito moved wrongly!
+[20:11:18] [Async Chat Thread - #8/INFO]: <Diego> ow me mais um ae
+[20:11:23] [Async Chat Thread - #8/INFO]: <Diego> um lapis
+[20:12:16] [Server thread/INFO]: Eike issued server command: /gamerule sendCommandFeedback
+[20:12:17] [Async Chat Thread - #8/INFO]: <Diego> vai matar o wither aonde?
+[20:12:33] [Server thread/INFO]: Eike issued server command: /give Eike minecraft:diamond 50
+[20:12:33] [Server thread/INFO]: [Eike: Gave 50 [Diamond] to Eike]
+[20:12:45] [Async Chat Thread - #8/INFO]: <Eike> sla
+[20:12:48] [Async Chat Thread - #8/INFO]: <Eike> bora catar obsidian
+[20:12:56] [Async Chat Thread - #8/INFO]: <Eike> pra fazer um lugar onde ele não saia/não quebre nada
+[20:13:47] [Async Chat Thread - #8/INFO]: <Diego> tem soul sand
+[20:13:48] [Async Chat Thread - #8/INFO]: <Diego> ?
+[20:13:50] [Async Chat Thread - #8/INFO]: <Eike> ty
+[20:13:51] [Async Chat Thread - #8/INFO]: <Eike> ty
+[20:13:54] [Async Chat Thread - #8/INFO]: <Eike> y
+[20:14:02] [Async Chat Thread - #8/INFO]: <Eike> quer qnts?
+[20:15:03] [Async Chat Thread - #9/INFO]: <Eike> como é o nome daquela ferramenta que tira os encantamentos de um item?
+[20:15:17] [Server thread/WARN]: zubito moved wrongly!
+[20:15:36] [Server thread/INFO]: nikeito issued server command: /
+[20:15:44] [Server thread/WARN]: nikeito moved wrongly!
+[20:16:11] [Server thread/INFO]: nikeito lost connection: Disconnected
+[20:16:11] [Server thread/INFO]: nikeito left the game
+[20:17:13] [Async Chat Thread - #10/INFO]: <Eike> grindstone
+[20:17:29] [Server thread/WARN]: zubito moved wrongly!
+[20:19:36] [Server thread/WARN]: zubito moved wrongly!
+[20:24:58] [Async Chat Thread - #11/INFO]: <zubito> vdd
+[20:24:59] [Async Chat Thread - #11/INFO]: <zubito> kkkk
+[20:25:02] [Async Chat Thread - #11/INFO]: <zubito> tenso
+[20:25:13] [Async Chat Thread - #11/INFO]: <zubito> exatamente, vale a pena
+[20:26:02] [Async Chat Thread - #11/INFO]: <zubito> o lucas
+[20:27:01] [Async Chat Thread - #11/INFO]: <zubito> eu teno uma casa na water só
+[20:27:06] [Async Chat Thread - #11/INFO]: <zubito> submersa
+[20:27:53] [Async Chat Thread - #11/INFO]: <Eike> bó matar o wither
+[20:27:53] [Server thread/WARN]: zubito moved wrongly!
+[20:28:20] [Async Chat Thread - #11/INFO]: <zubito> faz sentido eu acar conca no coral?
+[20:28:45] [Async Chat Thread - #11/INFO]: <Eike> tbó matar o wither no nether
+[20:28:51] [Async Chat Thread - #11/INFO]: <Eike> assim ele n destroi nd
+[20:29:07] [Server thread/INFO]: Diego issued server command: /tp Eike
+[20:29:07] [Server thread/INFO]: [Diego: Teleported Diego to Eike]
+[20:30:33] [Server thread/INFO]: Eike issued server command: /give Eike minecraft:obsidian 64
+[20:30:33] [Server thread/INFO]: [Eike: Gave 64 [Obsidian] to Eike]
+[20:30:35] [Server thread/INFO]: Eike issued server command: /give Eike minecraft:obsidian 64
+[20:30:35] [Server thread/INFO]: [Eike: Gave 64 [Obsidian] to Eike]
+[20:30:53] [Server thread/INFO]: neruy_rodo was shot by Skeleton
+[20:31:14] [Server thread/INFO]: Eike issued server command: //wand
+[20:31:28] [Server thread/WARN]: a65afbe1-5ec1-4a30-8848-f1fad7ef58d6 (vehicle of zubito) moved wrongly!
+[20:31:28] [Server thread/WARN]: a65afbe1-5ec1-4a30-8848-f1fad7ef58d6 (vehicle of zubito) moved wrongly!
+[20:31:31] [Server thread/INFO]: Eike issued server command: //set obsidian
+[20:31:38] [Server thread/INFO]: Eike issued server command: //set obsidian
+[20:31:50] [Server thread/INFO]: Eike issued server command: //set obsidian
+[20:32:04] [Server thread/INFO]: Eike issued server command: //set obsidian
+[20:32:35] [Server thread/INFO]: Eike issued server command: /tp DIego EIke
+[20:32:35] [Server thread/INFO]: [Eike: Teleported Diego to Eike]
+[20:32:50] [Server thread/INFO]: Eike has made the advancement [Withering Heights]
+[20:32:50] [Server thread/INFO]: Diego has made the advancement [Withering Heights]
+[20:32:55] [Async Chat Thread - #12/INFO]: <Eike> espera
+[20:33:02] [Server thread/INFO]: Diego was pummeled by Wither
+[20:33:08] [Server thread/INFO]: Diego issued server command: /tp Eike
+[20:33:08] [Server thread/INFO]: [Diego: Teleported Diego to Eike]
+[20:33:18] [Server thread/WARN]: zubito moved wrongly!
+[20:33:49] [Async Chat Thread - #12/INFO]: <zubito> nero, teu mic ta com vento
+[20:33:58] [Async Chat Thread - #12/INFO]: <zubito> de boa
+[20:34:08] [Server thread/INFO]: neruy_rodo was slain by Zombie Villager
+[20:34:24] [Async Chat Thread - #12/INFO]: <Diego> eu n consigo hitar mano
+[20:35:48] [Async Chat Thread - #13/INFO]: <Eike> tvidro
+[20:35:55] [Async Chat Thread - #13/INFO]: <Diego> nom
+[20:36:38] [Async Chat Thread - #13/INFO]: <Eike> sand, i need sand
+[20:36:51] [Async Chat Thread - #13/INFO]: <zubito> vai perto da mina casa
+[20:36:54] [Server thread/INFO]: Diego issued server command: /kill
+[20:36:54] [Server thread/INFO]: Diego fell out of the world
+[20:36:54] [Server thread/INFO]: [Diego: Killed Diego]
+[20:39:14] [Server thread/WARN]: zubito moved wrongly!
+[20:39:55] [Server thread/INFO]: Eike issued server command: /kill Eike
+[20:39:55] [Server thread/INFO]: Eike fell out of the world
+[20:39:55] [Server thread/INFO]: [Eike: Killed Eike]
+[20:42:12] [Server thread/INFO]: Diego issued server command: /tp z
+[20:42:16] [Server thread/INFO]: Diego issued server command: /tp Eike
+[20:42:16] [Server thread/INFO]: [Diego: Teleported Diego to Eike]
+[20:42:43] [Server thread/INFO]: Eike has made the advancement [Bring Home the Beacon]
+[20:42:43] [Server thread/INFO]: Diego has made the advancement [Bring Home the Beacon]
+[20:44:11] [Async Chat Thread - #14/INFO]: <Eike> é caro pa crl fazer isso chegar n último level
+[20:44:17] [Async Chat Thread - #14/INFO]: <Eike> vai + de 1 pack de bloco
+[20:45:01] [Async Chat Thread - #14/INFO]: <Diego> blz mas o que vc acha da gente ir x1
+[20:45:09] [Async Chat Thread - #14/INFO]: <Diego> sem armadura e espada d madeira
+[20:45:46] [Server thread/INFO]: Diego was slain by Eike
+[20:45:55] [Async Chat Thread - #14/INFO]: <Diego> sua armadura full roubo ai]
+[20:45:57] [Async Chat Thread - #14/INFO]: <Eike> tu n tirava nem meio coração -'
+[20:46:12] [Async Chat Thread - #14/INFO]: <Diego> vamo de espada de madeira e sem armor
+[20:46:17] [Async Chat Thread - #14/INFO]: <Eike> tnão
+[20:46:20] [Async Chat Thread - #14/INFO]: <Eike> sv é lagado
+[20:46:35] [Async Chat Thread - #14/INFO]: <Diego> arregou
+[20:46:45] [Async Chat Thread - #14/INFO]: <Diego> ok eike, vc é ez
+[20:46:47] [Async Chat Thread - #14/INFO]: <Diego> sabemos
+[20:46:51] [Async Chat Thread - #14/INFO]: <Diego> wow
+[20:46:56] [Async Chat Thread - #14/INFO]: <Eike> lgl
+[20:47:12] [Server thread/INFO]: Diego was slain by Eike
+[20:47:16] [Async Chat Thread - #14/INFO]: <Diego> ah mano
+[20:47:18] [Async Chat Thread - #14/INFO]: <Diego> bora men
+[20:47:26] [Async Chat Thread - #14/INFO]: <Diego> tira a armadura ai
+[20:47:53] [Server thread/INFO]: Diego issued server command: /tp Eike
+[20:47:53] [Server thread/INFO]: [Diego: Teleported Diego to Eike]
+[20:48:03] [Async Chat Thread - #14/INFO]: <Diego> se nao tirar armadura é guei
+[20:48:10] [Async Chat Thread - #14/INFO]: <Eike> no u
+[20:48:35] [Server thread/INFO]: Diego was shot by Eike
+[20:48:56] [Server thread/INFO]: Diego issued server command: /tp Eike
+[20:48:56] [Server thread/INFO]: [Diego: Teleported Diego to Eike]
+[20:49:09] [Server thread/INFO]: Diego was shot by Eike
+[20:49:13] [Async Chat Thread - #15/INFO]: <Diego> ta bom
+[20:49:17] [Server thread/INFO]: Diego issued server command: /tp Eike
+[20:49:17] [Server thread/INFO]: [Diego: Teleported Diego to Eike]
+[20:49:21] [Async Chat Thread - #15/INFO]: <Eike> tja disse q n quero
+[20:49:35] [Server thread/INFO]: Eike has made the advancement [A Seedy Place]
+[20:49:53] [Async Chat Thread - #15/INFO]: <Eike> tem trigo?
+[20:50:06] [Server thread/INFO]: Eike has made the advancement [The Parrots and the Bats]
+[20:50:59] [Server thread/INFO]: Eike issued server command: /kill Eike
+[20:50:59] [Server thread/INFO]: Eike fell out of the world
+[20:50:59] [Server thread/INFO]: [Eike: Killed Eike]
+[20:51:41] [Server thread/INFO]: Eike issued server command: /tp neruy
+[20:51:44] [Server thread/INFO]: Eike issued server command: /tp neruy_rodo
+[20:51:44] [Server thread/INFO]: [Eike: Teleported Eike to neruy_rodo]
+[20:53:04] [Async Chat Thread - #16/INFO]: <zubito> acei outro coraçao do mar
+[20:53:07] [Async Chat Thread - #16/INFO]: <zubito> nice
+[20:53:10] [Server thread/INFO]: Eike issued server command: /tp zubito
+[20:53:10] [Server thread/INFO]: [Eike: Teleported Eike to zubito]
+[20:53:19] [Async Chat Thread - #16/INFO]: <zubito> iae man
+[20:53:27] [Async Chat Thread - #16/INFO]: <Eike> vms ver quem consegue ficar mais tempo na água? kkk
+[20:53:36] [Async Chat Thread - #16/INFO]: <zubito> pra q
+[20:53:39] [Async Chat Thread - #16/INFO]: <Eike> tu q é o aquaman
+[20:53:52] [Async Chat Thread - #16/INFO]: <zubito> to com fome e morrendo
+[20:53:54] [Async Chat Thread - #16/INFO]: <zubito> da n
+[20:54:51] [Async Chat Thread - #16/INFO]: <zubito> vou rpa outro lcoal
+[20:54:53] [Async Chat Thread - #16/INFO]: <zubito> flw
+[20:54:59] [Async Chat Thread - #16/INFO]: <Eike> flw
+[20:55:14] [Server thread/INFO]: neruy_rodo was blown up by Creeper
+[20:55:42] [Server thread/INFO]: Eike lost connection: Disconnected
+[20:55:42] [Server thread/INFO]: Eike left the game
+[20:57:19] [Server thread/INFO]: Diego has made the advancement [Fishy Business]
+[20:58:10] [Server thread/INFO]: Diego issued server command: /time set 0
+[20:58:10] [Server thread/INFO]: [Diego: Set the time to 0]
+[21:01:46] [User Authenticator #6/INFO]: UUID of player Eike is 9251e9e2-88e1-3c18-beb1-52bdef3cb5af
+[21:01:47] [Server thread/INFO]: Eike[/0:0:0:0:0:0:0:1%0:35076] logged in with entity id 31118 at ([world]1150.9063757636602, 53.501071823987296, -1181.1639845721193)
+[21:01:51] [Async Chat Thread - #17/INFO]: <zubito> mano
+[21:01:55] [Async Chat Thread - #17/INFO]: <zubito> 3 mapas do tesouro
+[21:01:59] [Server thread/INFO]: Eike issued server command: /kill Eike
+[21:01:59] [Server thread/INFO]: Eike fell out of the world
+[21:01:59] [Server thread/INFO]: [Eike: Killed Eike]
+[21:02:07] [Async Chat Thread - #17/INFO]: <Eike> q poha ces tao fazendo
+[21:02:13] [Async Chat Thread - #17/INFO]: <Eike> pra pegar tanto mapa do tesouro?
+[21:02:41] [Server thread/INFO]: Eike issued server command: /tp zubito
+[21:02:41] [Server thread/INFO]: [Eike: Teleported Eike to zubito]
+[21:02:45] [Server thread/INFO]: Diego issued server command: /tp zubito
+[21:02:45] [Server thread/INFO]: [Diego: Teleported Diego to zubito]
+[21:03:40] [Async Chat Thread - #18/INFO]: <zubito> quer oq?
+[21:03:53] [Async Chat Thread - #18/INFO]: <Eike> só saber onde porra tu pega tanto mapa do tesour
+[21:04:00] [Async Chat Thread - #18/INFO]: <zubito> nos prorpios baus
+[21:04:03] [Async Chat Thread - #18/INFO]: <zubito> do tesouro
+[21:05:24] [Async Chat Thread - #19/INFO]: <zubito> tem conca eike?
+[21:05:26] [Async Chat Thread - #19/INFO]: <zubito> falta 5
+[21:05:28] [Async Chat Thread - #19/INFO]: <Eike> tnão
+[21:06:16] [Server thread/WARN]: zubito moved wrongly!
+[21:06:17] [Server thread/INFO]: Eike lost connection: Disconnected
+[21:06:17] [Server thread/INFO]: Eike left the game
+[21:06:39] [Server thread/INFO]: Diego drowned
+[21:06:48] [Server thread/INFO]: [Server] bora um destiny
+[21:06:55] [Server thread/INFO]: Diego issued server command: /tp zubito
+[21:06:55] [Server thread/INFO]: [Diego: Teleported Diego to zubito]
+[21:07:14] [Async Chat Thread - #20/INFO]: <zubito> vou já
+[21:09:22] [Server thread/INFO]: Diego issued server command: /time set 0
+[21:09:22] [Server thread/INFO]: [Diego: Set the time to 0]
+[21:09:27] [Async Chat Thread - #21/INFO]: <zubito> o dieo
+[21:09:33] [Async Chat Thread - #21/INFO]: <zubito> eu quero afoado mano
+[21:09:40] [Server thread/INFO]: Diego issued server command: /time set night
+[21:09:40] [Server thread/INFO]: [Diego: Set the time to 13000]
+[21:09:44] [Async Chat Thread - #21/INFO]: <zubito> vlw
+[21:09:48] [Server thread/INFO]: Diego issued server command: /kill
+[21:09:48] [Server thread/INFO]: Diego fell out of the world
+[21:09:48] [Server thread/INFO]: [Diego: Killed Diego]
+[21:09:56] [Server thread/INFO]: Diego issued server command: /tp zubito
+[21:09:56] [Server thread/INFO]: [Diego: Teleported Diego to zubito]
+[21:12:28] [Server thread/WARN]: zubito moved wrongly!
