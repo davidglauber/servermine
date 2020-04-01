@@ -1,5 +1,5 @@
 # How to start
-First, use the `./ngrok authtoken <your authtoken>` command to log-in to ngrok. You'll get your authtoken [here](dashboard.ngrok.com), after this step, type `./ngrok tcp 25565` and the tunneling is ready-to-use.
+First, use the `./ngrok authtoken <your authtoken>` command to log-in to ngrok. You'll get your authtoken [here](https://dashboard.ngrok.com), after this step, type `./ngrok tcp 25565` and the tunneling is ready-to-use.
 
 Now, you need to start the server jar, it's named `paper.jar`, to start it, just use the JVM command, `java -jar (jarName).jar`.
 
