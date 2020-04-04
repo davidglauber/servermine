@@ -6,3 +6,4 @@ Now, you need to start the server jar, it's named `paper.jar`, to start it, just
 The server IP will starts with `tcp://<ip here>`, remove the `tcp://` and share it to your friends.
 
 **If you use Minecraft non-official from Mojang, set `online-mode` to false in `server.properties` file.**
+"# servermine" 
